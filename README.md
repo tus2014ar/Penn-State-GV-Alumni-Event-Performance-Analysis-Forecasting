@@ -101,6 +101,7 @@ To replicate the analysis and generate the dashboard:
 
 ## Interactive Dashboard
 
-Take a look at the event performance overview below, or click the image to explore the full interactive dashboard.
-[Tailgate_event_trend_dashboard](Tailgate_event_trend_dashboard.html)
+Take a look at the event performance overview below, or download html from the repo for full interactive dashboard.
+<img width="837" height="761" alt="image" src="https://github.com/user-attachments/assets/b14faaf8-8cec-4d0c-821a-9977d60b4801" />
+
 
