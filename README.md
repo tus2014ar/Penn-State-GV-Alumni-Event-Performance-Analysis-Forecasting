@@ -103,4 +103,3 @@ To replicate the analysis and generate the dashboard:
 
 Take a look at the event performance overview below, or click the image to explore the full interactive dashboard.
 
-[Click here to view the interactive Alumni Event Performance Dashboard (HTML)](file:///C:/Tushar/Research%20Assistant%20-%20Penn%20state/Optimization%20Project%20-%20PennState%20Tailgate/Tailgate_event_trend_dashboard.html)
