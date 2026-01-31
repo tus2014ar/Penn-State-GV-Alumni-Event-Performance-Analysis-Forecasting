@@ -91,4 +91,8 @@ To replicate the analysis and generate the dashboard:
 3.  **Dependencies**: `pandas`, `numpy`, `matplotlib`, `plotly` (already handled in notebook).
 4.  **Execution**: Run all code cells sequentially. The cleaned datasets will be saved to `data/cleaned/`, and the dashboard HTML will be generated at `data/cleaned/alumni_event_dashboard.html`.
 
-**Note**: Raw data files are proprietary and not included. Ensure data availability for successful execution.
+## Interactive Dashboard
+
+Take a look at the event performance overview below, or click the image to explore the full interactive dashboard.
+
+[![Dashboard Preview](path/to/your/dashboard_preview.png)](path/to/your/alumni_event_dashboard.html)
