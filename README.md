@@ -103,4 +103,4 @@ To replicate the analysis and generate the dashboard:
 
 Take a look at the event performance overview below, or click the image to explore the full interactive dashboard.
 
-[![Dashboard Preview](path/to/your/dashboard_preview.png)](path/to/your/alumni_event_dashboard.html)
+[Click here to view the interactive Alumni Event Performance Dashboard (HTML)](/content/data/cleaned/alumni_event_dashboard.html)
