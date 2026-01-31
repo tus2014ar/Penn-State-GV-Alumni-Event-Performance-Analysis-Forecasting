@@ -72,7 +72,8 @@ The scenario-based forecast for 2026 provides actionable intelligence for strate
     *   *Decision Support*: Provides a baseline for expense management, supplier negotiations, and identifying potential areas for further cost optimization without compromising event quality.
 *   **Projected Net Funds Raised**:
     *   *Decision Support*: The combined forecasts provide clear financial projections under different conditions, enabling stakeholders to set realistic fundraising targets and evaluate the overall financial viability and success of the 2026 event. The significant upside potential in the optimistic scenario, driven by revenue per attendee, highlights strategic investment areas.
- **NOTE:**
+
+**NOTE:**
 - The 2026 forecast was developed using a scenario-based approach, combining linear trend extrapolation, recent historical averages, and business judgment.
 - Attendance was projected by blending a linear trend from historical data (2022-2025) with recent average attendance, resulting in an expected 235 attendees.
 - Revenue per attendee was forecasted by giving more weight to recent performance (2024-2025) to account for shifts in monetization strategies, leading to an expected $49 per attendee.
